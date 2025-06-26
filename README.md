@@ -1,5 +1,7 @@
 ## Hi there!
 
+I'm Marwan, 3rd year computer engineering student at Faculty of Engineering, Alexandria University.
+
 ### Languages and Tools :
 
 <p>
