@@ -1,6 +1,10 @@
 ## Hi there!
 
-I'm Marwan, 3rd year computer engineering student at Faculty of Engineering, Alexandria University.
+I'm Marwan, 3rd year computer engineering student at Faculty of Engineering, Alexandria University. 
+
+**Currently Deepening My Skills In:** Full-Stack Web Development.
+
+**Current University Coursework:** Machine Learning, Advanced Algorithms, Operating Systems, Database Systems, Distributed Systems.
 
 ### Languages and Tools :
 
