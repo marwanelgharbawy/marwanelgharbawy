@@ -1,6 +1,6 @@
-# Hi, I'm Marwan El Gharbawy 👋
+# Hi, I'm Marwan El-Gharbawy
 
-I'm a final-year Computer Engineering student at Alexandria University. I enjoy building practical backend systems, automating repetitive workflows, and turning raw data into useful results.
+I'm a final-year Computer Engineering student at Alexandria University. I enjoy building practical backend systems, automating repetitive workflows, and transforming raw data into useful results.
 
 My main interests are **Python automation, data processing, backend development, API integration, and machine learning**. I also have a strong background in embedded systems, circuits, and robotics.
 
@@ -58,9 +58,4 @@ A three-person academic project for collecting and processing simulated weather-
 A Java social networking application built around object-oriented design. It includes user profiles, posts, friendships, groups, chats, JSON persistence, and a Swing interface.
 
 **Java · Swing · OOP · Design Patterns · JSON**
-
-## GitHub Stats
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marwanelgharbawy&layout=compact&theme=vision-friendly-dark&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
