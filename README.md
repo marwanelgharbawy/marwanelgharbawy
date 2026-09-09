@@ -41,6 +41,12 @@ A three-layer academic application with a browser interface, an Express backend,
 
 **JavaScript · Node.js · Express · MySQL · REST APIs · GitHub Actions**
 
+### [CardioFusion: ECG-PCG Fusion for HFrEF Classification](https://github.com/marwanelgharbawy/ecg-pcg-fusion-hfref)
+
+An ongoing deep learning research project for classifying heart failure with reduced ejection fraction using ECG and PCG signals. I built the data validation and preprocessing pipeline, trained and evaluated single-modality baseline models, and am currently developing multimodal fusion and attention-based approaches.
+
+**Python · PyTorch · Deep Learning · ECG/PCG Signal Processing · Data Validation · Model Evaluation**
+
 ### [CNN Pet Expression Classification](https://github.com/marwanelgharbawy/cnn-pet-expressions)
 
 An image-classification project covering dataset validation, augmentation, training, evaluation, and comparisons between convolutional neural network architectures and transfer-learning approaches.
