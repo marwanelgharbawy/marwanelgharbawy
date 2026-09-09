@@ -64,4 +64,5 @@ A three-person academic project for collecting and processing simulated weather-
 A Java social networking application built around object-oriented design. It includes user profiles, posts, friendships, groups, chats, JSON persistence, and a Swing interface.
 
 **Java · Swing · OOP · Design Patterns · JSON**
+
 ---
