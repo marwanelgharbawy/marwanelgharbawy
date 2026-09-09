@@ -1,30 +1,66 @@
-## Hi there!
+# Hi, I'm Marwan El Gharbawy 👋
 
-I'm Marwan, 3rd year computer engineering student at Faculty of Engineering, Alexandria University. 
+I'm a final-year Computer Engineering student at Alexandria University. I enjoy building practical backend systems, automating repetitive workflows, and turning raw data into useful results.
 
-**Currently Deepening My Skills In:** Full-Stack Web Development.
+My main interests are **Python automation, data processing, backend development, API integration, and machine learning**. I also have a strong background in embedded systems, circuits, and robotics.
 
-**Current University Coursework:** Machine Learning, Advanced Algorithms, Operating Systems, Database Systems, Distributed Systems.
+## What I Can Help With
 
-### Languages and Tools :
+- Automating repetitive file, document, and data workflows with Python
+- Cleaning, validating, transforming, and analyzing datasets
+- Building or extending backend features, REST APIs, and database workflows
+- Preparing, training, evaluating, and improving machine learning models
+- Debugging and improving existing software projects
+
+## Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,php,js,html,css,mysql" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,linux,ubuntu,arduino,notion,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,js,java,c,cpp,php,html,css" alt="Python, JavaScript, Java, C, C++, PHP, HTML, and CSS" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb,git,github,docker" alt="Node.js, Express, MySQL, PostgreSQL, MongoDB, Git, GitHub, and Docker" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,arduino,pytorch,tensorflow,sklearn,opencv" alt="Linux, Ubuntu, Bash, Arduino, PyTorch, TensorFlow, scikit-learn, and OpenCV" />
 </p>
 
-### Featured Projects
-* **[Connect Hub](https://github.com/marwanelgharbawy/connect-hub)**
-  * **Tech Stack:** Java, Swing, OOP, Design Patterns.
-  * A scalable social media platform architecture built with strict adherence to SOLID principles.
-  * Allows users to create profiles, post content, and interact with other users.
+- **Languages:** Python, JavaScript, Java, C, C++, SQL, PHP, HTML, and CSS
+- **Backend and databases:** Node.js, Express, REST APIs, MySQL, PostgreSQL, MongoDB, authentication, transactions, and database design
+- **Data and machine learning:** NumPy, pandas, scikit-learn, PyTorch, TensorFlow/Keras, data preprocessing, model training, evaluation, NLP, computer vision, and signal processing
+- **Engineering tools:** Git, GitHub Actions, Linux, Docker, Kafka, Arduino, embedded systems, robotics, and electronic circuits
 
-### &nbsp; My Stats :
-<!---
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marwanelgharbawy&theme=dark&background=000000)](https://git.io/streak-stats)
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marwanelgharbawy&layout=compact&theme=vision-friendly-dark&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+## Featured Projects
+
+### [First Page Batch Printer](https://github.com/marwanelgharbawy/batch-print-temp)
+
+A Windows utility I built during an internship to solve a finance team's repetitive printing workflow. It lets users select many PDFs and print only the first page of each. I tested three implementations, selected the more reliable image-based approach, and packaged the tools as executables for non-technical users.
+
+**Python · Tkinter · PyMuPDF · Pillow · Windows printing APIs**
+
+### [Bookstore Order Processing System](https://github.com/marwanelgharbawy/order-processing-system)
+
+A three-layer academic application with a browser interface, an Express backend, and a MySQL database. It includes session authentication, role-based access, transactional checkout, inventory and restocking workflows, sales reports, automated tests, and GitHub Actions validation against MySQL.
+
+**JavaScript · Node.js · Express · MySQL · REST APIs · GitHub Actions**
+
+### [CNN Pet Expression Classification](https://github.com/marwanelgharbawy/cnn-pet-expressions)
+
+An image-classification project covering dataset validation, augmentation, training, evaluation, and comparisons between convolutional neural network architectures and transfer-learning approaches.
+
+**Python · PyTorch · Computer Vision · Data Preprocessing · Model Evaluation**
+
+### [Weather Stations Monitoring](https://github.com/marwanelgharbawy/weather-stations-monitoring)
+
+A three-person academic project for collecting and processing simulated weather-station data using producers, streaming infrastructure, alerting, and database persistence. It demonstrates experience working with a larger backend and data-flow system.
+
+**Java · Kafka · PostgreSQL · Docker · Distributed Systems**
+
+### [Connect Hub](https://github.com/marwanelgharbawy/connect-hub)
+
+A Java social networking application built around object-oriented design. It includes user profiles, posts, friendships, groups, chats, JSON persistence, and a Swing interface.
+
+**Java · Swing · OOP · Design Patterns · JSON**
+
+## GitHub Stats
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marwanelgharbawy&layout=compact&theme=vision-friendly-dark&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
